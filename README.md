@@ -31,6 +31,7 @@ conda install scikit-learn
 
 ## 2.Architecture of the directory
 The main modules are listed below:
+
 |   Modules   |    Function   |
 |-------------|:-------------|
 | run         |Script to reproduce our results.|
