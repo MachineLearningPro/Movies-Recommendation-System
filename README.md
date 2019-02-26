@@ -1,5 +1,5 @@
 # Recommendation system 
-This project attempts to predict missing ratings given a sparse rating matrix. We try to solve this problem with various algorithms and build our final model based on Matrix Factorization ALS.
+This project attempts to predict missing ratings given a sparse rating matrix. We try to solve this problem with various algorithms and build our final model based on Matrix Factorization ALS. Here is the [final report](https://github.com/MachineLearningPro/Movies-Recommendation-System/blob/master/ml_project2.pdf).
 
 ## 1. Prerequisites
 ### Anaconda
